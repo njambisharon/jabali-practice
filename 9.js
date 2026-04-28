@@ -3,9 +3,9 @@ function findChecker(arr,target) {
         if(target==arr[i])
         {
             console.log("Found it!")
-        } else{}
+        
 
-         
+        }  
     
 }   findChecker(["Viona","Valary","Jerry","Sharon","Shamim"],"Valary");
    
